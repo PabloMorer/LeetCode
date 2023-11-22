@@ -1,3 +1,3 @@
-# LeetCode
-LeetCode Problems' solutions 
+## LeetCode Problems 
+
 | # | Title | Solution | Difficulty |
