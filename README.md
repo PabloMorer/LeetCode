@@ -7,4 +7,5 @@
 | 25|[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[/Algorithms/25. Reverse Nodes in k-Group](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/25.%20Reverse%20Nodes%20in%20k-Group) | Hard
 | 30|[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)|[/Algorithms/30. Substring with Concatenation of All Words](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/30.%20Substring%20with%20Concatenation%20of%20All%20Words) | Hard
 | 191|[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[/Algorithms/191. Number of 1 Bits](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/) | Easy
+|1662|[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[/Algorithms/1662. Check If Two String Arrays are Equivalent](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent) | Easy
 
