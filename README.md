@@ -2,6 +2,7 @@
 
 | # | Title | Solution |
 | - |:-----:|:--------:|
+| 1|[1. Two Sum](https://leetcode.com/problems/two-sum/)|[/Algorithms/1. Two Sum](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/1.%20Two%20Sum)
 | 2|[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[/Algorithms/2. Add Two Numbers/](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/2.%20Add%20Two%20Numbers)
 | 3|[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/add-two-numbers/)|[/Algorithms/3. Longest Substring Without Repeating Characters](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 | 4|[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[/Algorithms/4. Median of Two Sorted Arrays](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays)
