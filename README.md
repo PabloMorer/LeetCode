@@ -20,4 +20,5 @@
 |1662|[1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[/Algorithms/1662. Check If Two String Arrays are Equivalent](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent) 
 |1688|[1688. Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[/Algorithms/1688. Count of Matches in Tournament](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/1688.%20Count%20of%20Matches%20in%20Tournament)
 |2264|[2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|[/Algorithms/2264. Largest 3-Same-Digit Number in String](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/2264.%20Largest%203-Same-Digit%20Number%20in%20String)
-
+|2482|[2482. Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|[/Algorithms/2482. Difference Between Ones and Zeros in Row and Column](https://github.com/PabloMorer/LeetCode/tree/main/Algorithms/2482.%20Difference%20Between%20Ones%20and%20Zeros%20in%20Row%20and%20Column)
+||
