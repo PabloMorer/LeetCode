@@ -9,8 +9,6 @@ public:
         int c = INT_MAX;
         int d = INT_MAX;
         
-        int idx_a = 0;
-        int idx_b = 0;
         for (int i = 0; i < nums.size(); i++) {
             if (a <= nums[i]) {
                 b = a;
